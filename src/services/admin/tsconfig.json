@@ -1,0 +1,17 @@
+{
+    "extends": "@tsconfig/svelte/tsconfig.json",
+    "include": [
+        "types/**/*.d.ts",
+        "src/**/*",
+        "src/node_modules/**/*"
+    ],
+    "exclude": [
+        "node_modules/*",
+        "__sapper__/*",
+        "static/*"
+    ],
+    "compilerOptions": {
+        "ignoreDeprecations": "5.0",
+        "verbatimModuleSyntax": true
+    }
+}

@@ -1,0 +1,12 @@
+# project deps
+**/node_modules
+# configuration files
+**/config.json
+# env files
+**/*.env
+
+# prefix folders with old- if not used anymore/unsure if going to be added
+services/old-*
+
+services/2016-roblox
+services/Roblox/.idea/.idea.Roblox/.idea/workspace.xml
