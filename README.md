@@ -1,9 +1,6 @@
 # THIS CODE IS OUTDATED!
 Do not use this as an example of how my code looks. The majority of this is forked from my friend and is mostly NOT my code.
 
-# LucianLand as of 11/4/24
-Baseline economy-simulator.com fork
-
 # What's Included
 - Asset Validation Service
 - Admin Panel
